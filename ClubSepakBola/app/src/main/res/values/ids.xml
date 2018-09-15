@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="namaclub" type="id"/>
+    <item name="gambar" type="id"/>
+    <item name="detail" type="id"/>
+    <item name="recyclersepakbola" type="id"/>
+</resources>
+
